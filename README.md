@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-- 🎓 **Computer Engineering Student**
+- 🎓 **Computer Engineer**
 - 🤖 Focused on **Large Language Models (LLMs) & AI Agents**
 - 📊 Strong interest in **Machine Learning fundamentals**
 - 🧩 Building **agent-based AI systems**
